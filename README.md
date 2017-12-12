@@ -33,12 +33,18 @@ MEVN was used here also because Vue makes the application working Smooth when co
 
 ***
 ## Installation Instructions
+
 Run the following commands in signin application root folder to install the dependencies.
+
 `npm install`
+
 Start front end
 `npm run dev` #starts localhost:8080
+
 Open a new terminal to Start backend
+
 `Sudo service mongod start`#starts the mongoDB service
+
 `nodemon server`#starts nodeJS server
 
 
