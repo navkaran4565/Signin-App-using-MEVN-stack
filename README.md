@@ -14,6 +14,7 @@ This application has a user view that consists of some basic information like:
 * Official visit 
 * Escort required 
 * Escort name (only if Escort checked)
+
 Once the user fills in all the details and submits his/her infromation,it gets stored in the database.The databse can be viewed by the admin.Admin can sign in to view the data.The UI in this application is user friendly.There is no delay to store the data in the database when a user signs in.
 
 ## Tools
@@ -32,4 +33,15 @@ MEVN was used here also because Vue makes the application working Smooth when co
 
 ***
 ## Installation Instructions
+Run the following commands in signin application root folder to install the dependencies.
+`npm install`
+Start front end
+`npm run dev` #starts localhost:8080
+Open a new terminal to Start backend
+`Sudo service mongod start`#starts the mongoDB service
+`nodemon server`#starts nodeJS server
+
+
+
+
 
