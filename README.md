@@ -7,13 +7,13 @@ This `Signin` application requests some necessary information from users to sign
 
 ## Design
 This application has a user view that consists of some basic information like:
--Name
--Email
--Telephone
--Company
--Official visit 
--Escort required 
--Escort name (only if Escort checked)
+* Name
+* Email
+* Telephone
+* Company
+* Official visit 
+* Escort required 
+* Escort name (only if Escort checked)
 Once the user fills in all the details and submits his/her infromation,it gets stored in the database.The databse can be viewed by the admin.Admin can sign in to view the data.The UI in this application is user friendly.There is no delay to store the data in the database when a user signs in.
 
 ## Tools
