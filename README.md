@@ -15,7 +15,7 @@ This application has a user view that consists of some basic information like:
 * Escort required
 * Escort name (only if Escort checked)
 
-Once the user fills in all the details and submits his/her infromation,it gets stored in the database.The databse can be viewed by the admin.Admin can sign in to view the data.The UI in this application is user friendly.There is no delay to store the data in the database when a user signs in.
+Once the user fills in all the details and submits his/her infromation,it gets stored in the database.The databse can be viewed by the admin.Admin can do this by signin.The UI in this application is user friendly.There is no delay to store the data in the database when a user signs in.
 
 ## Tools
 
@@ -26,7 +26,7 @@ This Signin project is built on MongoDB, Express, Vue, and Nodejs (MEVN).The ana
 |Usability	   |  5	    |   4   |
 |Skill	       |  5     | 	3   |
 |Support       |	3.5   |	  4   |
-|Total	       | 13.5	  | 11    |
+|Total	       |  13.5  | 11    |
 
 MEVN was used here also because Vue makes the application working Smooth when combined with the backend functionality of Express.js and node.js.MongoDB is used as a database here.
 
