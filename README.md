@@ -34,6 +34,12 @@ MEVN was used here also because Vue makes the application working Smooth when co
 
 ## Installation Instructions
 
+Clone the repository
+
+`git clone https://github.com/navkaran4565/csc583-Final-Exam.git`
+
+change directory to your application
+
 Run the following commands in signin application root folder to install the dependencies.
 
 `npm install`
