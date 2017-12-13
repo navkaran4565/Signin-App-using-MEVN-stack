@@ -40,14 +40,29 @@ Run the following commands in signin application root folder to install the depe
 
 Start front end
 
-`npm run dev` *starts localhost:8080*
+`npm run dev` : *starts localhost:8080*
 
 Open a new terminal to Start backend
 
-`Sudo service mongod start`  *starts the mongoDB service*
+`Sudo service mongod start` : *starts the mongoDB service*
 
-`nodemon server`  *starts nodeJS server*
+`nodemon server` :  *starts nodeJS server*
 
+
+## Architecture
+This application has a three tier architecture.
+* Vue is used for front end
+* ExpressJS and NodeJS is used for backend
+* MongoDB is used as the database
+
+## Plan of action
+- [x] Non functional analysis
+- [x] Tool analysis
+- [x] Arcitecture analysis
+- [x] User interface design
+- [x] Admin view design
+- [x] Frontend components
+- [x] Backend components
 
 
 
