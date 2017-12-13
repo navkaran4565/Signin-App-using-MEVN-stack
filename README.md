@@ -40,9 +40,9 @@ Run the following commands in signin application root folder to install the depe
 
 Start front end
 
-* *starts localhost:8080*
+---* *starts localhost:8080*
 
-`npm run dev` 
+---`npm run dev` 
 
 Open a new terminal to Start backend
 
