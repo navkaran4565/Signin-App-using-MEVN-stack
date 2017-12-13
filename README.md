@@ -23,11 +23,12 @@ This Signin project is built on MongoDB, Express, Vue, and Nodejs (MEVN).The ana
 
 #### 0 is BAD and 5 is BEST
 
-|              |   MEVN |  MEAN |
-| Usability    |  5	    |   4   |
-| Skill	       |  5     | 	3   |
-| Support      |	3.5   |	  4   |
-| Total	       |  13.5  | 11    |
+|               |   MEVN    |  MEAN |
+| ------------- |:---------:| -----:|
+| Usability     |    5	    |   4   |
+| Skill	        |    5      | 	3   |
+| Support       | 	3.5     |	  4   |
+| Total	        |   13.5    |  11   |
 
 MEVN was used here also because Vue makes the application working Smooth when combined with the backend functionality of Express.js and node.js.MongoDB is used as a database here.
 
