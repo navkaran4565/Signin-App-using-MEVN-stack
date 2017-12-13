@@ -60,7 +60,7 @@ This application has a three tier architecture.
 
 - [x] Non functional analysis
 - [x] Tool analysis
-- [x] Arcitecture analysis
+- [x] Architecture analysis
 - [x] User interface design
 - [x] Admin view design
 - [x] Frontend components
